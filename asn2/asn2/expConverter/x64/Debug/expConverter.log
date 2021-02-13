@@ -1,0 +1,3 @@
+﻿  exp_converter.c
+C:\Users\darwi\Desktop\CS2211a\assignments\asn2\asn2\expConverter\exp_converter.c(36): warning C4715: 'calculate': not all control paths return a value
+  expConverter.vcxproj -> C:\Users\darwi\Desktop\CS2211a\assignments\asn2\asn2\x64\Debug\expConverter.exe
